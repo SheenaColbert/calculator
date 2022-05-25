@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: #4c728398;
+  background-color: #3e284098;
   font-size: 1.5em;
 }
 
@@ -110,7 +110,7 @@ button.operator {
   word-wrap: break-word;
   word-break: break-all;
   padding: 10px;
-  background-color: #646464d5;
+  background-color: #382c2cd5;
   border-top: 2px solid white;
   border-left: 2px solid white;
   border-right: 2px solid white;
